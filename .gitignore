@@ -1,0 +1,26 @@
+# STM32CubeIDE generated files
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.launch
+*.log
+*.lst
+*.tmp
+*.bak
+*.dep
+*.gpdsc
+*.srec
+
+# Eclipse / STM32CubeIDE metadata
+.settings/
+.project
+.cproject
+
+# OS files
+.DS_Store
+Thumbs.db
